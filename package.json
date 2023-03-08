@@ -1,0 +1,7 @@
+{
+  "workspaces": [
+    "primary",
+    "secondary"
+  ],
+  "license": "ISC"
+}
