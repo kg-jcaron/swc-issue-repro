@@ -11,5 +11,5 @@
     "forceConsistentCasingInFileNames": true,
     "moduleResolution": "node"
   },
-  "files": ["index.ts", "../secondary/index.ts"]
+  "files": ["index.ts", "localFile.ts", "../secondary/index.ts"]
 }
